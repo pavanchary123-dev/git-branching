@@ -1,5 +1,5 @@
 abcd
-12341234567890
+12345
 qwerty-3rd line
 4321
 aeio
